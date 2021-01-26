@@ -1,0 +1,3 @@
+The "arcade" library is required.
+
+It can be found here: https://arcade.academy/
